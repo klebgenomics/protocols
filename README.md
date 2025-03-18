@@ -13,3 +13,6 @@ Protocols for Klebsiella genomic surveillance - including detection, isolation, 
 [Genomic surveillance of bacteria for vaccine surveillance](https://github.com/vaxgenomics/metadata)
  
 [KlebNET Genomic Epidemiology Consortium Metadata Template and Data Repository](https://github.com/klebgenomics/Klebsiella-genome-metadata)
+
+## Quality control standards
+[KlebNET Quality Control criteria for Klebsiella spp genomes]https://bigsdb.pasteur.fr/klebsiella/genomes-quality-criteria/
